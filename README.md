@@ -1,5 +1,5 @@
 # Jihočeské nemocnice
-﻿# Archi Scripting Plug-in
+﻿# Referenční model architetury nemocnice
 
 ## What is this?
 This is an extension to Archi that allows scripting of tasks using the JavaScript language.
